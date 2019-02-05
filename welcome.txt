@@ -1,2 +1,2 @@
-Branch conflict .. Welcome  .. !!
+New line .. Welcome  .. !!
 SAm Deo added this line
